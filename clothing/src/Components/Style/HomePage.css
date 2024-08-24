@@ -1,0 +1,17 @@
+/* HomePage.css */
+.landscape-container {
+    height: 90vh; /* 90% of the viewport height */
+    width: 100%; /* 100% of the viewport width */
+}
+
+.left-partition, .right-partition {
+    background-color: #f0f0f0; /* Example background color */
+    padding: 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .left-partition, .right-partition {
+        padding: 10px; /* Adjust padding for smaller screens */
+    }
+}

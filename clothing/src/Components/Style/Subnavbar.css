@@ -1,0 +1,16 @@
+/* Subnavbar.css */
+
+/* Grid layout for dropdown items in Men section */
+.men-dropdown .dropdown-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px; /* Adjust the gap between columns as needed */
+}
+
+/* Grid layout for dropdown items in Women section */
+.women-dropdown .dropdown-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px; /* Adjust the gap between columns as needed */
+}
+

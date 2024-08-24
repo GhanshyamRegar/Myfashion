@@ -1,0 +1,15 @@
+.carousel-item {
+    justify-content: center;
+    align-items: center;
+  }
+  
+.carousel-item img {
+    max-width: 100%;
+    height: 22rem;
+  } 
+
+  .container{
+    height: 50%;
+    width: 93%;
+  }
+  

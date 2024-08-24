@@ -1,0 +1,13 @@
+/* AboutUs.css */
+.about-us-container {
+    text-align: center; /* Align text and inline elements to the center */
+    padding-top: 50px; /* Add top padding for better spacing */
+}
+
+.about-us-container h1 {
+    margin-bottom: 30px; /* Add margin below the heading */
+}
+
+.about-us-container p {
+    margin-bottom: 20px; /* Add margin below each paragraph */
+}
